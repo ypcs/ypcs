@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-More at <a rel="me" href="https://ypcs.fi">ypcs.fi</a>. And maybe contact via Mastodon <a rel="me" href="https://mastodontti.fi/@ypcs">mastodontti.fi/@ypcs</a>.
+More at <a rel="me" href="https://ypcs.fi">ypcs.fi</a>.
 
 <!--
 **ypcs/ypcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
